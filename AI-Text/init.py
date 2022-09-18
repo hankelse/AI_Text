@@ -2,7 +2,7 @@ import random
 
 no_nos = [".", "?", "!", ",", ":", ";"]
 
-file = open("text.txt")
+file = open("AI-Text/text.txt")
 lines = file.readlines()
 
 word_dict = {}
