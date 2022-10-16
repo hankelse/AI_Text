@@ -42,7 +42,8 @@ string = ""
 for word in output:
     string += word
     string += " "
-
+for i in range(10): print()
 print(string)
+for i in range(5): print()
 
 
